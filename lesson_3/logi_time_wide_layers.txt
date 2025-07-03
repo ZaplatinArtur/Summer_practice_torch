@@ -1,0 +1,4 @@
+time train model narrow_layers is 22.13288164138794
+time train model middle_layers is 26.327837467193604
+time train model wide_layers is 35.44964814186096
+time train model very_wide_layers is 52.57612895965576
